@@ -5,14 +5,13 @@
   "main": "index.js",
   "scripts": {
     "test": "node_modules\\.bin\\cypress run",
-    "headmodetest":"npm run test -- --headed",
-    "chrometest":"npm run test -- --browser chrome",
-    "testmochareport":"npm run test -- --reporter mochawesome",
-    "recordTestinDashBoard":" npm run test -- --record --key c62881d6-2deb-44e5-b72d-79fe29ca8b82 --reporter mochawesome",
-    "verifyProductAddedToBasketTest":"npm run test -- --spec \"cypress/integration/GreenKartTests/VerifyProductAddedToKart.js\"",
-    "GreenKartTests":"npm run test -- --spec \"cypress/integration/GreenKartTests/*\"",
-    "PhotoCommerceTests":"npm run test -- --spec \"cypress/integration/ProtoCommerceTests/*\""
-
+    "headmodetest": "npm run test -- --headed",
+    "chrometest": "npm run test -- --browser chrome",
+    "testmochareport": "npm run test -- --reporter mochawesome",
+    "recordTestinDashBoard": " npm run test -- --record --key c62881d6-2deb-44e5-b72d-79fe29ca8b82 --reporter mochawesome",
+    "verifyProductAddedToBasketTest": "npm run test -- --spec \"cypress/integration/GreenKartTests/VerifyProductAddedToKart.js\"",
+    "GreenKartTests": "npm run test -- --spec \"cypress/integration/GreenKartTests/*\"",
+    "PhotoCommerceTests": "npm run test -- --spec \"cypress/integration/ProtoCommerceTests/*\""
   },
   "author": "Shibashis Chaudhuri",
   "license": "ISC",

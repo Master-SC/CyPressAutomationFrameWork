@@ -10,8 +10,6 @@ describe("This is a test for hooks", function(){
         })
     })
 
-    
-
     it("TestCase-1 for hooks", function(){
         cy.visit(Cypress.env('url')+"/angularpractice/")
         // we have replaced all our hardcoded data with the data from testdata1.json usig this.data.name/gender
