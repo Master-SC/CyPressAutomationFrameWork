@@ -1,0 +1,9 @@
+{
+  "defaultCommandTimeout": 10000,
+  "reporter": "mochawesome",
+  "env": {
+    "url": "https://rahulshettyacademy.com"
+  },
+  "retries": 1,
+  "projectId": "v45nyp"
+}

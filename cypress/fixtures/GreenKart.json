@@ -1,0 +1,11 @@
+{
+    "greenkarttext":"GREENKART",
+    "greenkartsearchboxtext":"Search for Vegetables and Fruits",
+    "greenkartsearchitem":"ca",
+    "greenkartsearch":"Capsicum",
+    "capsicumPrice":"60",
+    "findproductName":"h4.product-name",
+    "findproductPrice":"p.product-price",
+    "emptybasketPrice":"0",
+    "emptybasketQty":"0"
+}

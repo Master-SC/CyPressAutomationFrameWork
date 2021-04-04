@@ -1,0 +1,10 @@
+{
+    "name":"bobitaK1",
+    "gender":"Female",
+    "checkoutBasket": "Checkout ( 0 )",
+    "productList": ["Nokia", "Blackberry", "iphone","Samsung","Nokia", "Note 8"],
+    "product1":"Blackberry",
+    "deliveryLocation":"Liechtenstein",
+    "successMsg":"\n          ×\n          Success! Thank you! Your order will be delivered in next few weeks :-).\n        ",
+    "locationSuggection":"in"
+}
